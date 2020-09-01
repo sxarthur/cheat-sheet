@@ -1,4 +1,5 @@
 #
+.travis.yml
 README.ja.md
 README.ko.md
 README.zh-ch.md
